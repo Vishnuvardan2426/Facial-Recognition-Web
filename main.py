@@ -1,1 +1,1 @@
-print("Face Recognition Practice Project")
+print("Face Recognition Project")
